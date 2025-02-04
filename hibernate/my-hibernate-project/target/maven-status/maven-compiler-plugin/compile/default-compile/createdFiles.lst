@@ -1,0 +1,9 @@
+com\example\model\Asignatura.class
+com\example\MainApp.class
+com\example\model\AlumnoSeMatriculaAsignatura.class
+com\example\model\Departamento.class
+com\example\model\CursoEscolar.class
+com\example\model\Persona.class
+com\example\model\AlumnoSeMatriculaAsignaturaId.class
+com\example\model\Grado.class
+com\example\model\Profesor.class
